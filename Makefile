@@ -5,14 +5,14 @@
 ## Login   <jacqui_p@epitech.net>
 ##
 ## Started on  Mon Oct 12 16:01:02 2015 Pierre-Emmanuel Jacquier
-## Last update Sun Nov 22 22:44:40 2015 Pierre-Emmanuel Jacquier
+## Last update Wed Apr  6 20:29:31 2016 Pierre-Emmanuel Jacquier
 ##
 
 CC	= cc
 
 RM	= rm -f
 
-CFLAGS	+= -I. -W -Wall -Wextra -ansi -pedantic
+CFLAGS	+= -I. -W -O3 -Wall -Wextra -ansi -pedantic
 
 NAME	= push_swap
 
